@@ -1,0 +1,1 @@
+I learned more about Gatsby.js and tried to use the ui design tool by creating a page, devide it into four and add different shapes and modifying the colors.

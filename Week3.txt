@@ -1,0 +1,1 @@
+I learned to use github and its code commiting function.I started working on Gatsby JS, a web develop tool, to create my first template website and added the team project github repository. I comitted some new code by playing around some learned features in Gatsby JS tutorial and I finished the required task which is to create a webpage with my name, RIN on it.
