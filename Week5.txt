@@ -1,0 +1,1 @@
+I learned to use the components to divide my page into four parts, to put four different types of shapes and text areas, and we can modify the properties of them, background colors and texts. By putting everything into components, we can easily modify each part and organize them, so the code will be neat and readable for other group members.
